@@ -16,6 +16,10 @@ use Mix.Config
 #
 #     Application.get_env(:hello_network, :key)
 #
+
+config :hello_network, hostname: "rpi7"
+
+#
 # Or configure a 3rd-party app:
 #
 
